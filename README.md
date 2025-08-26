@@ -22,13 +22,13 @@ The dashboard provides insights into scores, revenue, genre trends, and director
 ## Dashboard Screenshots
 
 ### Movie Scores & Revenue  
-![Movie Scores & Revenue](movie.pg)  
+![Movie Scores & Revenue](movie.png)  
 
 ### Genre & Releases  
-![Genre & Releases](genre.pg)  
+![Genre & Releases](genre.png)  
 
 ### Directors  
-![Directors](director.pg)  
+![Directors](director.png)  
 
 ---
 
