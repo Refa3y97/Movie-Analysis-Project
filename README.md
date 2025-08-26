@@ -1,4 +1,4 @@
-# Movie Analysis Project
+# Movie Performance Analytics
 
 This Power BI project analyzes movie performance, ratings, and box office data.  
 The dashboard provides insights into scores, revenue, genre trends, and director impact.
